@@ -11,4 +11,4 @@ class Nutrition {
 }
 
 
-module.exports = Order
+module.exports = Nutrition

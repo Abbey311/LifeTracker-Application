@@ -11,4 +11,4 @@ class Sleep {
 }
 
 
-module.exports = Order
+module.exports = Sleep
